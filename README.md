@@ -3,6 +3,20 @@ IOS 워크북 &amp; 미션 제출 레포지토리 (ദ്ദി⩌𖥦⩌)
 
 ## 💻 Member
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/links5925">
+        <img src="https://github.com/links5925.png" width="100px;" alt="체셔/김창 프로필"/>
+        <br />
+        <sub><b>체셔/김창우</b></sub>
+      </a>
+      <br />
+      <sub>IOS 개발자</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📁 디렉토리 구조
 
 ```bash
